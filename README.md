@@ -55,24 +55,24 @@ Start the server
 
 ## Screenshots
 
-- Featured Movie
+- Featured Movie  
   ![App Screenshot](https://i.ibb.co/gPw09ZY/featured.png)  
 
-- Popular Movie
+- Popular Movie  
   ![App Screenshot](https://i.ibb.co/gWHjqGG/popular.png)
 
-- Search Movie
+- Search Movie  
   ![App Screenshot](https://i.ibb.co/GkzJsGL/searc.png)  
 
-- Detail Movie
+- Detail Movie  
   ![App Screenshot](https://i.ibb.co/gv4YZw9/details.png)
 
-- Favorite Movie
+- Favorite Movie  
   ![App Screenshot](https://i.ibb.co/hY6kvbs/favorites.png)
 
 ## Demo
 
-![App Screenshot](https://drive.google.com/uc?id=1u2ltVQZoriqeItWCjgHFOYMJ0xdGu-r2)
+[Demo](https://drive.google.com/uc?id=1u2ltVQZoriqeItWCjgHFOYMJ0xdGu-r2)
 
 ## Reference
 
